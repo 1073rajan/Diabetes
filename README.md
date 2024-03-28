@@ -22,4 +22,4 @@ It contains diagnostic measurements for several hundred female patients of Pima 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/diabetes-prediction.git
+git clone https://github.com/1073rajan/Diabetes.git
