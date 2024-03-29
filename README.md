@@ -17,6 +17,22 @@ It contains diagnostic measurements for several hundred female patients of Pima 
 - 4. Model Evaluation: Assessing model performance using appropriate metrics such as accuracy, precision, recall, and F1-score.
 - 5. Model Deployment: Deploying the trained model for prediction.
 
+## Install the required dependencies:
+
+- install python
+- Vs code
+- pip install pandas
+- pip install numpy
+- pip install matplotlib
+- pip install seaborn
+- pip install scikit-learn
+- pip install flask
+- Run the Jupyter notebook or Python script to train the model and make predictions.
+
+## Results
+Our model achieved an accuracy of X% on the test set, demonstrating its effectiveness in predicting breast cancer. 
+Further details on performance metrics and visualization of results can be found in the project documentation.
+
 ## Usage
 
 1. Clone this repository:
