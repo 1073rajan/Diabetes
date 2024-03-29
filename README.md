@@ -30,7 +30,7 @@ It contains diagnostic measurements for several hundred female patients of Pima 
 - Run the Jupyter notebook or Python script to train the model and make predictions.
 
 ## Results
-Our model achieved an accuracy of X% on the test set, demonstrating its effectiveness in predicting breast cancer. 
+Our model achieved an accuracy of X% on the test set, demonstrating its effectiveness in predicting Diabetes. 
 Further details on performance metrics and visualization of results can be found in the project documentation.
 
 ## Usage
